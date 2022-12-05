@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="New York" />
+        <Weather defaultCity="Dnipro" />
         <footer>
           This project was coded by{" "}
           <a
@@ -14,11 +14,11 @@ export default function App() {
             target="_blank"
             rel="noreferrer"
           >
-            Natsuki Shuko
+            Olga Petrunenko
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/NatsukiSh/weather-react-app"
+            href="https://github.com/HelgaDp/Week4"
             target="_blank"
             rel="noreferrer"
           >
