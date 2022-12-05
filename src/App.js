@@ -10,7 +10,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://heroic-sprinkles-834702.netlify.app/"
+            href="https://comfy-marshmallow-bb80b1.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
